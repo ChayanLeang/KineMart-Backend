@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KineMartAPI", "KineMartAPI\KineMartAPI.csproj", "{AF500A99-6C7F-47F4-91C3-20F9EA5B5E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KineMartAPITest", "KineMartAPITest\KineMartAPITest.csproj", "{70D2FF8F-0E04-465A-A21B-C9598974F1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF500A99-6C7F-47F4-91C3-20F9EA5B5E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF500A99-6C7F-47F4-91C3-20F9EA5B5E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF500A99-6C7F-47F4-91C3-20F9EA5B5E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF500A99-6C7F-47F4-91C3-20F9EA5B5E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D2FF8F-0E04-465A-A21B-C9598974F1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D2FF8F-0E04-465A-A21B-C9598974F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D2FF8F-0E04-465A-A21B-C9598974F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D2FF8F-0E04-465A-A21B-C9598974F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {879EC535-4289-4DBC-926A-0B56B522ECAE}
+	EndGlobalSection
+EndGlobal
